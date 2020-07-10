@@ -11,11 +11,11 @@ for = htmlFor
 
 * js
 
-React.DOM.label({htmlFor: "id"}, "phone number is : ")
-ReactDOM.div(className: "poupou", null, "kkk"),
+      React.DOM.label({htmlFor: "id"}, "phone number is : ")
+      ReactDOM.div(className: "poupou", null, "kkk"),
 
 
 * render(return...)
 
-<label for="id"> phone number is </label>
-<div class: "poupou"> kkk </div>
+      <label for="id"> phone number is </label>
+      <div class: "poupou"> kkk </div>
