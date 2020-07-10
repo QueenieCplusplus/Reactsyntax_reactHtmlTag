@@ -1,7 +1,7 @@
 # Reactsyntax_reactHtmlTag
 HTML Tag &amp; React ClassName
 
-# HTML & React
+# HTML  Tag & React Property with Value
 
 class = className
 
